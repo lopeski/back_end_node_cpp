@@ -1,0 +1,9 @@
+{
+  "name": "back_end_node_cpp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-addon-api": "^3.2.1"
+  }
+}
